@@ -44,7 +44,7 @@ Video Demo: https://youtu.be/sMKg6ILYgv0
 1.-Clone or download this repository 
 
 ```bash
-git clone https://github.com/salvadordeveloper/TikTok-Flutter.git
+git clone https://github.com/mikegehrke/TikTok-AllIntegratedFlutterApp.git
 ```
 
 2.-Config your Firebase instance and insert the google-service.json in android/app/ or ios/Runner
